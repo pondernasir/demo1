@@ -21,7 +21,7 @@ nav h1{
   font-family: var(--mainFont);
   text-transform: uppercase;
   letter-spacing: 5px;
-  color: rgba(0, 0, 0, 0.212);
+  color: rgba(0, 0, 0, 0.100);
 }
 .container_1{
     width:80%;
